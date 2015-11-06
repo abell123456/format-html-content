@@ -1,0 +1,19 @@
+{
+  "name": "lan",
+  "version": "1.0.0",
+  "description": "lan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lan"
+  ],
+  "author": "xiangzhong.wxz",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^7.0.2",
+    "strip-json-comments": "^1.0.4",
+    "text-table": "^0.2.0"
+  }
+}
